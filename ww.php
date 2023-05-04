@@ -1,6 +1,6 @@
 <?php
 // Your OpenWeatherMap API key
-$api_key = '5c1b76f8f4448ecdfc5a58b24bd3741e';
+$api_key = 'add api key here';
 
 // URL for current weather API
 $current_url = 'http://api.openweathermap.org/data/2.5/weather?q=Kathmandu&units=metric&appid=' . $api_key;
